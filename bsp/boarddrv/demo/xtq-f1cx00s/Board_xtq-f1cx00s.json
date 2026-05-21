@@ -1,0 +1,22 @@
+{
+	"board_name":"xtq-f1cx00s",
+	"cpus":{
+		"f1cx00s":{
+			"clocks":{
+				
+			},
+			"chips":["touchscreen GT911",
+			"norflash W25QXX",
+			"W25QXX FAT",
+			"camera_ov2640"],
+			"peripherals":[],
+			"mian_freq":null,
+			"memories":{
+				
+			}
+		}
+	},
+	"shared_memories":{
+		
+	}
+}

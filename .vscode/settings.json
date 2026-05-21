@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "*.wav": "code-text-binary",
+    "*.cjson": "jsonc",
+    "*.wxss": "css",
+    "*.wxs": "javascript",
+    "stdbool.h": "c",
+    "int_hard.h": "c",
+    "cpu_peri.h": "c",
+    "critical.h": "c",
+    "cpu.h": "c",
+    "*.rsc": "c",
+    "string.h": "c"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "cpu_name":"windows",
+    "cores":[{
+		"resetAddr":"0x0123",
+		"name":"win7",
+		"type":"win",
+		"family":"win7"
+    }]
+}

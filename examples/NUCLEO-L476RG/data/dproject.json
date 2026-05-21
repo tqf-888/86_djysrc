@@ -1,0 +1,44 @@
+{
+	"ide_version":"V1.7_20210707",
+	"frameworks_checked":{
+		"app":[],
+		"iboot":[]
+	},
+	"target_nodes":[],
+	"libs_checked":{
+		"app":[],
+		"iboot":[]
+	},
+	"hardware":{
+		"core":"cortex-m4",
+		"cpu":"stm32l476xx",
+		"board":"NUCLEO-L476RG"
+	},
+	"components_checked":{
+		"app":[],
+		"iboot":["black box",
+		"board config",
+		"cpu onchip peripheral lowpower control",
+		"cpu onchip uart",
+		"debug information",
+		"device file system",
+		"flash",
+		"heap",
+		"int",
+		"kernel",
+		"kernel object system",
+		"loader",
+		"lock",
+		"memory pool",
+		"message queue",
+		"misc",
+		"multiplex",
+		"ring buffer and line buffer",
+		"shell",
+		"stdio",
+		"STM32 common code",
+		"stm32L4",
+		"time",
+		"uart device file"]
+	}
+}

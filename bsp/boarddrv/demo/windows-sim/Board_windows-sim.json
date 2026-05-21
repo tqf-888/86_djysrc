@@ -1,0 +1,19 @@
+{
+	"board_name":"windows-sim",
+	"cpus":{
+		"windows":{
+			"clocks":{
+				
+			},
+			"chips":[],
+			"peripherals":["key board driver"],
+			"mian_freq":null,
+			"memories":{
+				
+			}
+		}
+	},
+	"shared_memories":{
+		
+	}
+}

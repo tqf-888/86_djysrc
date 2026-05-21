@@ -1,0 +1,47 @@
+{
+	"ide_version":"V1.7_20200624",
+	"frameworks_checked":{
+		"app":[],
+		"iboot":[]
+	},
+	"libs_checked":{
+		"app":[],
+		"iboot":[]
+	},
+	"hardware":{
+		"core":"cortex-m7",
+		"cpu":"stm32h743xx",
+		"board":"APOLLO-STM32H7"
+	},
+	"components_checked":{
+		"app":[],
+		"iboot":["black box",
+		"board config",
+		"cpu onchip dma",
+		"cpu onchip gpio",
+		"cpu onchip systime",
+		"cpu onchip timer",
+		"cpu onchip uart",
+		"device file system",
+		"heap",
+		"int",
+		"kernel",
+		"kernel object system",
+		"loader",
+		"lock",
+		"memory pool",
+		"message queue",
+		"misc",
+		"multiplex",
+		"ring buffer and line buffer",
+		"shell",
+		"Software Timers",
+		"stdio",
+		"STM32 common code",
+		"stm32h7",
+		"time",
+		"tpl",
+		"uart device file",
+		"watch dog"]
+	}
+}

@@ -1,0 +1,17 @@
+/.svn
+bsp/boarddrv/user/
+userlib/
+*.P
+*.o
+*.d
+*.lst
+*.elf
+*.bin
+*.a
+*.map
+/*.vpw
+/*.vpwhist
+/*.vpj
+libc.bak
+/third/micropython1.13/ports/stm32
+zephyr
