@@ -1,0 +1,28 @@
+{
+	"board_name":"suolots-c100",
+	"cpus":{
+		"f1cx00s":{
+			"clocks":{
+				
+			},
+			"chips":["W25QXX FAT",
+			"W25QXX XIP",
+			"norflash W25QXX",
+			"touchscreen ICNT8952"],
+			"peripherals":["cpu onchip gpio",
+			"cpu onchip iic",
+			"cpu onchip spi",
+			"cpu onchip timer",
+			"cpu onchip uart",
+			"cpu_dma",
+			"F1C-LCD"],
+			"mian_freq":null,
+			"memories":{
+				
+			}
+		}
+	},
+	"shared_memories":{
+		
+	}
+}
